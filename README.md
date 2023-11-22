@@ -22,6 +22,7 @@ The script uses these inputs to calculate the price per piece and the total amou
 5. If you choose to exit, the script will display previous amounts and the total.
 
 **Note:** Ensure that you enter valid numerical values for the parameters. If an invalid input is detected, the script will prompt you to enter a number.
+and run pyinstaller Woven-Label-Price-Calculator.py --onefile --windowed to have a .exe file
 
 ### Example:
 
