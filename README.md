@@ -25,7 +25,7 @@ The script uses these inputs to calculate the price per piece and the total amou
 and run pyinstaller Woven-Label-Price-Calculator.py --onefile --windowed to have a .exe file
 
 
-### Example: of what?
+### Example:
 
 ```bash
 Pick: 10
